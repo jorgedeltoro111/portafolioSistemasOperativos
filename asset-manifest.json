@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portafolioSistemasOperativos/static/css/main.a42dc731.css",
+    "main.js": "/portafolioSistemasOperativos/static/js/main.dc56f899.js",
+    "index.html": "/portafolioSistemasOperativos/index.html",
+    "main.a42dc731.css.map": "/portafolioSistemasOperativos/static/css/main.a42dc731.css.map",
+    "main.dc56f899.js.map": "/portafolioSistemasOperativos/static/js/main.dc56f899.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a42dc731.css",
+    "static/js/main.dc56f899.js"
+  ]
+}
