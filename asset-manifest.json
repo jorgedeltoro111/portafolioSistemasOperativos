@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portafolioSistemasOperativos/static/css/main.a42dc731.css",
-    "main.js": "/portafolioSistemasOperativos/static/js/main.4646e1fc.js",
+    "main.js": "/portafolioSistemasOperativos/static/js/main.e30191bc.js",
     "index.html": "/portafolioSistemasOperativos/index.html",
     "main.a42dc731.css.map": "/portafolioSistemasOperativos/static/css/main.a42dc731.css.map",
-    "main.4646e1fc.js.map": "/portafolioSistemasOperativos/static/js/main.4646e1fc.js.map"
+    "main.e30191bc.js.map": "/portafolioSistemasOperativos/static/js/main.e30191bc.js.map"
   },
   "entrypoints": [
     "static/css/main.a42dc731.css",
-    "static/js/main.4646e1fc.js"
+    "static/js/main.e30191bc.js"
   ]
 }
