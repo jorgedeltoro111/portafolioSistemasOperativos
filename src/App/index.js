@@ -11,7 +11,7 @@ const object = [
   {title: 'Dispositivos fisicos', subtitle: 'A04', description: 'Tipos de dispositivos fisicos', link: 'https://drive.google.com/file/d/1IWbtVaRsDyhrZN86do9-KUpKYdC7dFeF/view?usp=drive_link'},
   {title: 'Concepto de máquina virtual y partición de disco', subtitle: 'A05', description: 'Creación de maquina virtual con tres SO', link: 'https://drive.google.com/file/d/1bxeBoMLDCANStmi1ZJeMvcSK8SjO4OXB/view?usp=drive_link'},
   {title: 'Distribuciones y licencias de un sistema operativo', subtitle: 'A06', description: 'Investigación acerca de licencias de software', link: 'https://drive.google.com/file/d/1rtW5zh2s8nFsXPVoSTAHmWWxHbe_JmHF/view?usp=drive_link'},
-  {title: 'Portafolio de evidencias', subtitle: 'A07', description: 'Unidad tematica 1, conclusión', link: 'https://drive.google.com/file/d/1RS7ozPuq9TQ2MNEGCmuK14TbfTpWb9rh/view?usp=drive_link'},
+  {title: 'Portafolio de evidencias', subtitle: 'A07', description: 'Unidad tematica 1, conclusión', link: 'https://drive.google.com/file/d/1xTEeu4JaVxHFQ-F_2rbRcdV-HjrgwpUD/view?usp=drive_link'},
 ];
 
 function App() {
