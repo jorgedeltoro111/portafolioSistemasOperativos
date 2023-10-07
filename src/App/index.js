@@ -13,6 +13,7 @@ const object = [
   {title: 'Distribuciones y licencias de un sistema operativo', subtitle: 'A06', description: 'Investigación acerca de licencias de software', link: 'https://drive.google.com/file/d/1rtW5zh2s8nFsXPVoSTAHmWWxHbe_JmHF/view?usp=drive_link'},
   {title: 'Portafolio de evidencias', subtitle: 'A07', description: 'Unidad tematica 1, conclusión', link: 'https://drive.google.com/file/d/1xTEeu4JaVxHFQ-F_2rbRcdV-HjrgwpUD/view?usp=drive_link'},
   {title: 'Procesos e hilos', subtitle: 'A08', description: 'Conociendo los procesos y manejo de hilos', link: 'https://drive.google.com/file/d/1lXLRHfIT2ehPBc5I4u7udoz2Btd5ef6T/view?usp=drive_link'},
+  {title: 'Concurrencia', subtitle: 'A09', description: 'Glosario de conceptos', link: 'https://drive.google.com/file/d/16DCGHDjRnKUB70YSgM7VSm0pZV6IwHF_/view?usp=drive_link'},
 ];
 
 function App() {
