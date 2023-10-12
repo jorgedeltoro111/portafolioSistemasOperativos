@@ -14,6 +14,7 @@ const object = [
   {title: 'Portafolio de evidencias', subtitle: 'A07', description: 'Unidad tematica 1, conclusión', link: 'https://drive.google.com/file/d/1xTEeu4JaVxHFQ-F_2rbRcdV-HjrgwpUD/view?usp=drive_link'},
   {title: 'Procesos e hilos', subtitle: 'A08', description: 'Conociendo los procesos y manejo de hilos', link: 'https://drive.google.com/file/d/1lXLRHfIT2ehPBc5I4u7udoz2Btd5ef6T/view?usp=drive_link'},
   {title: 'Concurrencia', subtitle: 'A09', description: 'Glosario de conceptos', link: 'https://drive.google.com/file/d/16DCGHDjRnKUB70YSgM7VSm0pZV6IwHF_/view?usp=drive_link'},
+  {title: 'Exclusión mutua', subtitle: 'A10', description: 'Soluciones de exclusión mutua', link: 'https://drive.google.com/file/d/11t3qR64mCwA0Un7tIhRppUJXKkBjc7FJ/view?usp=drive_link'},
 ];
 
 function App() {
