@@ -17,7 +17,7 @@ const object = [
   {title: 'Exclusión mutua', subtitle: 'A10', description: 'Soluciones de exclusión mutua', link: 'https://drive.google.com/file/d/11t3qR64mCwA0Un7tIhRppUJXKkBjc7FJ/view?usp=drive_link'},
   {title: 'Producto - Consumidor', subtitle: 'A11', description: 'Práctica de producto-consumidor', link: 'https://drive.google.com/file/d/1UO7qTHN6_ROIcOjDpXk0_Wxt28w7uafT/view?usp=drive_link'},
   {title: 'Interbloqueo(Filósofos)', subtitle: 'A12', description: 'Práctica de filósofos', link: 'https://drive.google.com/file/d/1N_Kk1Fl6G9o0DrC8xsWepjrVwYVIbk-m/view?usp=drive_link'},
-  {title: 'Portafolio de evidencias', subtitle: 'A13', description: 'Portafolio de evidencias', link: 'https://drive.google.com/file/d/1xVWpJC-O3QyhzFJB3UmOIvYXcYuaroSP/view?usp=drive_link'},
+  {title: 'Scripts', subtitle: 'A14', description: 'Scripts para optimizar', link: 'https://drive.google.com/file/d/1_LfdJWIe2AxG0tcK_69rxI6W3P7fRCMj/view?usp=drive_link'},
 ];
 
 function App() {
