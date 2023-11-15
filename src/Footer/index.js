@@ -19,7 +19,10 @@ problemas es muy excepcional. Poder analizar los diferentes tipos de procesos y
 subprocesos es algo muy bonito dado que podemos comprender como funciona el
 procesador y sus distintas tareas que se realizan por medio de hilos de procesamiento.</p>
         <h5 className='font-weight-bold'>Unidad temática 3: Optimización</h5>
-        <p className='text-justify m-3'></p>
+        <p className='text-justify m-3'>
+          
+La optimización de scripts es esencial para mejorar el rendimiento y eficiencia de sistemas, logrando un funcionamiento más rápido y una mejor utilización de recursos. El paralelismo destaca la importancia de ejecutar tareas simultáneamente para aprovechar los recursos disponibles, especialmente en entornos con capacidad de procesamiento paralelo. En términos de seguridad, es crucial implementar medidas robustas para proteger la integridad y confidencialidad de los datos, dada la creciente sofisticación de amenazas cibernéticas, evitando posibles brechas y ataques.
+        </p>
       </div>
       <footer className='text-center mt-5 mb-5 font-italic'>Creado y diseñado por Jorge Enrique Hernández Del Toro®</footer>
     </div>

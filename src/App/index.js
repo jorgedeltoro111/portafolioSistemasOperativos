@@ -21,6 +21,7 @@ const object = [
   {title: 'Scripts', subtitle: 'A14', description: 'Scripts para optimizar', link: 'https://drive.google.com/file/d/1_LfdJWIe2AxG0tcK_69rxI6W3P7fRCMj/view?usp=drive_link'},
   {title: 'Paralelismo', subtitle: 'A15', description: 'Optimizar código', link: 'https://drive.google.com/file/d/1qWkoxPeaJQEWSlvqjj6sAretxzlibg89/view?usp=drive_link'},
   {title: 'Seguridad', subtitle: 'A16', description: 'Seguridad de la información', link: 'https://drive.google.com/file/d/1LNwmzkm3cxzEpmbkIZ5cgc_5FxTJJb1_/view?usp=drive_link'},
+  {title: 'Portafolio de evidencias', subtitle: 'A17', description: 'Unidad tematica 3', link: 'https://drive.google.com/file/d/1l3D1-AogMnoECPzGgZB__5I7mb0vMzML/view?usp=drive_link'},
 ];
 
 function App() {
