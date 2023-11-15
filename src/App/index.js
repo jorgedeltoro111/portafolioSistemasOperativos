@@ -19,6 +19,7 @@ const object = [
   {title: 'Interbloqueo(Filósofos)', subtitle: 'A12', description: 'Práctica de filósofos', link: 'https://drive.google.com/file/d/1N_Kk1Fl6G9o0DrC8xsWepjrVwYVIbk-m/view?usp=drive_link'},
   {title: 'Portafolio de evidencias', subtitle: 'A13', description: 'Unidad tematica 2', link: 'https://drive.google.com/file/d/1xVWpJC-O3QyhzFJB3UmOIvYXcYuaroSP/view?usp=drive_link'},
   {title: 'Scripts', subtitle: 'A14', description: 'Scripts para optimizar', link: 'https://drive.google.com/file/d/1_LfdJWIe2AxG0tcK_69rxI6W3P7fRCMj/view?usp=drive_link'},
+  {title: 'Paralelismo', subtitle: 'A15', description: 'Optimizar código', link: 'https://drive.google.com/file/d/1qWkoxPeaJQEWSlvqjj6sAretxzlibg89/view?usp=drive_link'},
 ];
 
 function App() {
